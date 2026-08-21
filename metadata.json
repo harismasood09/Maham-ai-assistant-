@@ -1,0 +1,6 @@
+{
+  "name": "Maham AI Assistant",
+  "description": "Maham (ماہم) - Real-time multilingual AI voice assistant supporting Urdu, Pashto, and English with smart Android device control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
